@@ -1,0 +1,4 @@
+Git tracks changes in files.
+Branches allow independent development.
+Pull requests support code review.
+Merging combines approved changes.
